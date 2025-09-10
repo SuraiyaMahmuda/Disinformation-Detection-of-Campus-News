@@ -35,11 +35,8 @@ This research project focuses on combating disinformation in campus-based Bangla
 
 # Obtained Results
 
-## For Detecting Disinformation
-![P](Human Baseline.png)
-
 ## Final Calssification Report
-![P](Human Baseline.png)
+![P](ClassificationReportV1.png)
 
 # Ranking Table for Journalist Profiling
 
