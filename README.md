@@ -15,6 +15,33 @@ This research project focuses on combating disinformation in campus-based Bangla
 * Recall
 * F1-score
 
+## Human Baseline
+
+## Transformer-based BERT Model
+
+## Large Language Model
+
+## System Architecture
+
+## Dataset File Format
+
+## Sample Data
+
+# Obtained Results
+
+## For Detecting Disinformation
+
+## Final Calssification Report
+
+# anking Table for Journalist Profiling
+
+## News publication statistics of Campus Correspondents
+
+## Ranking Table for Journalist Profiling
+
+
+
+
 
 
 
