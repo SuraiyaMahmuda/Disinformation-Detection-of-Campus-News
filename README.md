@@ -16,7 +16,7 @@ This research project focuses on combating disinformation in campus-based Bangla
 * F1-score
 
 ## Human Baseline
-![P](Human Baseline.png)
+![Human Baseline](Human Baseline.png)
 
 ## Transformer-based BERT Model
 ![P](BERT mechanism.png)
