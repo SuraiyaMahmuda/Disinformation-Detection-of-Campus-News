@@ -33,7 +33,7 @@ This research project focuses on combating disinformation in campus-based Bangla
 
 ## Final Calssification Report
 
-# anking Table for Journalist Profiling
+# Ranking Table for Journalist Profiling
 
 ## News publication statistics of Campus Correspondents
 
