@@ -1,6 +1,6 @@
 # Bangla Disinformation Detection of Campus News (Jahangirnagar University) and Forensics Profiling of Campus Correspondent and other E-newspapers
 
-This research project focuses on combating disinformation in campus-based Bangla news by developing a sophisticated detection and journalist profiling system. Utilizing advanced Natural Language Processing (NLP) techniques, the project fine-tunes BanglaBERT, a Large Language Model (LLM - LLaMA) pre-trained for the Bangla language, to accurately classify news content as authentic or false, achieving an accuracy of 92%. Evaluated performance using accuracy, precision, recall, and F1-score. A key outcome of this research is the creation of a dynamic framework for profiling and ranking journalists and their e-news portals based on the authenticity of their reporting. This ranking system, updated semi-annually, promotes journalistic integrity and ethical reporting. The project's findings contribute to a more trustworthy media environment, with the potential for broader application in the overall journalism landscape.
+This research project focuses on combating disinformation in campus-based Bangla news by developing a sophisticated detection and journalist profiling system. Utilizing **advanced Natural Language Processing (NLP)** techniques, the project fine-tunes **BanglaBERT**, a **Large Language Model (LLM - LLaMA)** pre-trained for the Bangla language, to accurately classify news content as authentic or false, achieving an accuracy of **92%**. Evaluated performance using accuracy, precision, recall, and F1-score. A key outcome of this research is the creation of a **dynamic framework for profiling and ranking journalists and their e-news portals based on the authenticity of their reporting**. This ranking system, updated semi-annually, promotes journalistic integrity and ethical reporting. The project's findings contribute to a more trustworthy media environment, with the potential for broader application in the overall journalism landscape.
 
 ## Tools and Technologies:
 
@@ -16,22 +16,22 @@ This research project focuses on combating disinformation in campus-based Bangla
 * F1-score
 
 ## Human Baseline
-![Human Baseline](Human Baseline.png)
+![P](HumanBaseline.png)
 
 ## Transformer-based BERT Model
-![P](BERT mechanism.png)
+![P](BERTmechanism.png)
 
 ## Large Language Model
-![P](LLM mechanism.png)
+![P](LLMmechanism.png)
 
 ## System Architecture
 ![P](SystemArchitecture.png)
 
 ## Dataset File Format
-![P](Dataset File Format.png)
+![P](DatasetFileFormat.png)
 
 ## Sample Data
-![P](Sample Data.png)
+![P](SampleData.png)
 
 # Obtained Results
 
@@ -44,10 +44,10 @@ This research project focuses on combating disinformation in campus-based Bangla
 # Ranking Table for Journalist Profiling
 
 ## News publication statistics of Campus Correspondents
-![P](News publication statistics of Campus Correspondents.png)
+![P](NewspublicationstatisticsofCampusCorrespondents.png)
 
 ## Ranking Table for Journalist Profiling
-![P](Ranking Table for Journalist Profiling.png)
+![P](RankingTableforJournalistProfiling.png)
 
 
 
