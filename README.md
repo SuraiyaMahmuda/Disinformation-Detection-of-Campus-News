@@ -25,7 +25,7 @@ This research project focuses on combating disinformation in campus-based Bangla
 ![P](LLM mechanism.png)
 
 ## System Architecture
-![P](System Architecture.png)
+![P](SystemArchitecture.png)
 
 ## Dataset File Format
 ![P](Dataset File Format.png)
