@@ -25,13 +25,13 @@ This research project focuses on combating disinformation in campus-based Bangla
 ![P](LLM mechanism.png)
 
 ## System Architecture
-![P](SystemArchitecture.png)
+![P](System Architecture.png)
 
 ## Dataset File Format
-![P](1.png)
+![P](Dataset File Format.png)
 
 ## Sample Data
-![P](2.png)
+![P](Sample Data.png)
 
 # Obtained Results
 
@@ -44,10 +44,10 @@ This research project focuses on combating disinformation in campus-based Bangla
 # Ranking Table for Journalist Profiling
 
 ## News publication statistics of Campus Correspondents
-![P](Human Baseline.png)
+![P](News publication statistics of Campus Correspondents.png)
 
 ## Ranking Table for Journalist Profiling
-![P](Human Baseline.png)
+![P](Ranking Table for Journalist Profiling.png)
 
 
 
